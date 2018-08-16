@@ -1,9 +1,7 @@
 # Teste - Yellow Consult
 ## Sobre
 Aplicação desenvolvida com o intuito de testar a aplicação de lógica de programação. Esta aplicação foi desenvolvida por
-| Marcio Fernandes Justino
-| marciojustino@gmail.com
-| 
+> Marcio Fernandes Justino | marciojustino@gmail.com | [GitHub](https://github.com/marciojustino/yellowconsult.git)
 
 ## Vocabulário e Vetores de Palavras
 1. Leitura dos arquivos enviados via parâmetro em linha de comando (file1.txt e file2.txt);
@@ -24,17 +22,17 @@ A aplicação foi desenvolvida em Python3 utilizando ambiente isolado.
 
 #### Recomendações
 Habilitar o ambiente isolado utilizando o virtualenv existente no Python3
-```bash
-python3 -m .venv <environment>
+```console
+foo@bar:~$ python3 -m .venv <environment>
 ```
 
 ## Testando a Aplicação
 A aplicação tem como ponto de entrada o arquivo **main.py**. Para executar a aplicação é necessário informar o nome dos arquivos que deseja que sejam utilizados para composição do vocabulário e consequentemente para a composição dos vetores de palavras, como parâmetros de linha de comando:
-```bash
-python main.py <arg1> <arg2> <...>
+```console
+foo@bar:~$ python main.py <arg1> <arg2> <...>
 ```
 
 Para utilizar os arquivos pré existentes, utilizar o seguinte comando:
-```bash
-python main.py file1.txt file2.txt
+```console
+foo@bar:~$ python main.py file1.txt file2.txt
 ```
