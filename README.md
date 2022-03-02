@@ -1,7 +1,6 @@
-# Teste - Yellow Consult
+# Teste - Teste de vocabulário
 ## Sobre
-Aplicação desenvolvida com o intuito de testar a aplicação de lógica de programação. Esta aplicação foi desenvolvida por
-> Marcio Fernandes Justino | marciojustino@gmail.com | [GitHub](https://github.com/marciojustino/yellowconsult.git)
+Aplicação desenvolvida com o intuito de testar a aplicação de lógica de programação
 
 ## Vocabulário e Vetores de Palavras
 1. Leitura dos arquivos enviados via parâmetro em linha de comando (file1.txt e file2.txt);
